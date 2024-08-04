@@ -1,0 +1,24 @@
+Results for varepsilon= 1.000000e-04
+N		supercloseness_L2 Error		supercloseness_Lq Error		supercloseness_DG Error		L2 Conv Order		Lq Conv Order		DG Conv Order
+4	2.38359e-02	2.66851e-02	2.67007e+00	N/A	N/A
+8		7.46979e-03		4.91862e-03		4.94198e-01		1.67399		4.17071		4.16046
+16		2.12392e-03		9.11145e-04		9.47234e-02		1.81434		3.58738		3.51482
+32		5.66527e-04		1.92301e-04		2.35795e-02		1.90651		3.04535		2.72222
+64		1.46683e-04		5.13309e-05		8.51708e-03		1.94945		2.45042		1.88926
+
+Results for varepsilon= 1.000000e-05
+N		supercloseness_L2 Error		supercloseness_Lq Error		supercloseness_DG Error		L2 Conv Order		Lq Conv Order		DG Conv Order
+4	2.38463e-02	2.66956e-02	8.44237e+00	N/A	N/A
+8		7.47255e-03		4.89592e-03		1.54897e+00		1.67409		4.18309		4.18205
+16		2.12352e-03		8.73901e-04		2.77563e-01		1.81514		3.66633		3.65805
+32		5.65535e-04		1.58122e-04		5.18314e-02		1.90877		3.34674		3.28498
+64		1.45973e-04		3.04830e-05		1.17951e-02		1.95392		3.05419		2.74643
+
+Results for varepsilon= 1.000000e-06
+N		supercloseness_L2 Error		supercloseness_Lq Error		supercloseness_DG Error		L2 Conv Order		Lq Conv Order		DG Conv Order
+4	2.38473e-02	2.66966e-02	2.66968e+01	N/A	N/A
+8		7.47282e-03		4.89364e-03		4.89388e+00		1.67410		4.18433		4.18422
+16		2.12348e-03		8.70091e-04		8.70477e-01		1.81522		3.67464		3.67380
+32		5.65436e-04		1.54291e-04		1.54893e-01		1.90900		3.38620		3.37944
+64		1.45902e-04		2.75478e-05		2.83741e-02		1.95437		3.19653		3.14893
+

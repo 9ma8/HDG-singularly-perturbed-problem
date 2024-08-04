@@ -1,0 +1,6 @@
+Results for varepsilon= 1.000000e-06
+N		L2 Error		Lq Error		DG Error		L2 Conv Order		Lq Conv Order		DG Conv Order
+2	0.00000e+00	0.00000e+00	0.00000e+00	N/A	N/A
+4		0.00000e+00		0.00000e+00		0.00000e+00		1.86621		5.15410		5.15409
+8		0.00000e+00		0.00000e+00		0.00000e+00		1.67410		4.18433		4.18428
+
